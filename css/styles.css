@@ -1,0 +1,154 @@
+* {
+  list-style: none;
+}
+
+.body > * {
+  background-color: #fff;
+  color: #fff;
+  font-family: Roboto, sans-serif;
+}
+
+.main-link {
+  font-family: 'Roboto';
+    font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+
+.main-link:hover,
+.main-link:focus,
+.main-link:active {
+  color: #404bbf;
+}
+
+.navigation {
+  font-family: 'Roboto';
+    font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  cursor: pointer;
+}
+
+.navigation-link {
+  color: #2e2f42;
+}
+
+.navigation-link:hover,
+.navigation-link:focus,
+.navigation-link:active {
+  color: #404bbf;
+}
+
+.address-link {
+  font-family: 'Roboto';
+    font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.address-link:focus,
+.address-link:active {
+ 
+    color: #404bbf;
+}
+
+.hero {
+  font-family: 'Roboto';
+    font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
+.button {
+  
+  font-family: 'Roboto';
+    font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
+
+.features-header-item,
+.team-header-item {
+  font-family: 'Roboto';
+    font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.features-header-text,
+.team-header-text {
+  font-family: 'Roboto';
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.header-item {
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.main-link {
+  font-family: 'Roboto';
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+
+.footer-text {
+  font-family: 'Roboto';
+    font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+
+.portfolio-button {
+  font-family: 'Roboto';
+    font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+}
+
+.portfolio-button:active {
+  color: #FFFFFF;
+}
+.portfolio-header-item {
+  font-family: 'Roboto';
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.portfolio-header-text {
+  font-family: 'Roboto';
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
