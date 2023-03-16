@@ -19,17 +19,17 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #4D5AE5;
+  color: #4d5ae5;
 }
 
 .main-link-span {
-  color: #2E2F42;
+  color: #2e2f42;
 }
 
 .main-link:hover,
 .main-link:focus,
 .main-link:active {
-  color: #404BBF;
+  color: #404bbf;
 }
 
 .list {
@@ -38,7 +38,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2E2F42;
+  color: #2e2f42;
   cursor: pointer;
 }
 
@@ -48,13 +48,13 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2E2f42;
+  color: #2e2f42;
   cursor: pointer;
 }
 
 .list-item:hover,
 .list-item:focus {
-  color: #404BBF;
+  color: #404bbf;
 }
 
 .address-main {
@@ -71,12 +71,17 @@ body {
 
 .address:focus,
 .address:hover {
-  color: #404BBF;
+  color: #404bbf;
+}
+
+.hero-section {
+  background-color: #2e2f42;
 }
 
 .hero {
   font-family: "Roboto";
   font-weight: 700;
+  text-align: center;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
@@ -84,12 +89,19 @@ body {
 }
 
 .button {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  background-color: #4d5ae5;
   color: #ffffff;
+  cursor: pointer;
+}
+
+.button:hover,
+.button:focus {
+  background-color: #404bbf;
 }
 
 .features-header-item,
