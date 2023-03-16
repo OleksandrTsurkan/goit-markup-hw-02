@@ -100,7 +100,6 @@ body {
   cursor: pointer;
 }
 .hero-text {
-
 }
 .button:hover,
 .button:focus {
@@ -127,6 +126,13 @@ body {
   color: #434455;
 }
 
+.team-section {
+  background-color: #f4f4fd;
+}
+.team-member {
+  background-color: #ffffff;
+}
+
 .header-item {
   font-family: "Roboto";
   font-weight: 700;
@@ -135,6 +141,7 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  text-align: center;
 }
 
 .footer-text {
