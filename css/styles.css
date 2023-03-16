@@ -143,6 +143,9 @@ body {
   color: #2e2f42;
   text-align: center;
 }
+.footer {
+    background-color: #2e2f42;
+}
 
 .footer-text {
   font-family: "Roboto";
