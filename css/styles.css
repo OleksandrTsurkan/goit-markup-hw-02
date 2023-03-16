@@ -6,15 +6,14 @@
 body {
   color: #434455;
   font-family: "Roboto", sans-serif;
-  background-color: #FFFFFF;
-
+  background-color: #ffffff;
 }
 
 :root {
-
 }
 
-.main-link, .link  {
+.main-link,
+.link {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
@@ -24,17 +23,18 @@ body {
   color: #4d5ae5;
 }
 
-.main-link-span,.link {
-    color: #2e2f42;
+.main-link-span,
+.link {
+  color: #2e2f42;
 }
-list
-.main-link:hover,
+list .main-link:hover,
 .main-link:focus,
 .main-link:active {
   color: #404bbf;
 }
 
-.list, .link {
+.list,
+.link {
   font-family: "Roboto";
   font-weight: 500;
   font-size: 16px;
@@ -44,9 +44,15 @@ list
   cursor: pointer;
 }
 
-.list-link {
-  color: #2E2F42;
+.list-item,
+.link {
+  font-family: "Roboto";
   font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  cursor: pointer;
 }
 
 .list-link:hover,
@@ -56,21 +62,20 @@ list
 }
 
 .address-main {
-    font-style: normal;
+  font-style: normal;
 }
 
-.address-link,.link {
-  font-family: "Roboto";
-  font-weight: 400;
+.address, .link{
+  font-style: normal;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-.address-link:focus,
-.address-link:hover,
-.address-link:active {
+.address:focus,
+.address:hover,
+.address:active {
   color: #404bbf;
 }
 
@@ -120,7 +125,6 @@ list
   text-transform: capitalize;
   color: #2e2f42;
 }
-
 
 .footer-text {
   font-family: "Roboto";
