@@ -52,7 +52,7 @@ body {
   cursor: pointer;
 }
 
-.list-item-start:hover,
+.list-item:hover,
 .list-item-start:focus {
   color: #404BBF;
 }
