@@ -53,7 +53,7 @@ body {
 }
 
 .list-item:hover,
-.list-item-start:focus {
+.list-item:focus {
   color: #404BBF;
 }
 
@@ -69,8 +69,8 @@ body {
   color: #434455;
 }
 
-.address-start:focus,
-.address-start:hover {
+.address:focus,
+.address:hover {
   color: #404BBF;
 }
 
