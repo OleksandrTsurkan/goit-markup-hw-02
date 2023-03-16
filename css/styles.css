@@ -52,8 +52,8 @@ body {
   cursor: pointer;
 }
 
-.list-item:hover,
-.list-item:focus {
+.list-item-start:hover,
+.list-item-start:focus {
   color: #404BBF;
 }
 
@@ -69,8 +69,8 @@ body {
   color: #434455;
 }
 
-.address:focus,
-.address:hover {
+.address-start:focus,
+.address-start:hover {
   color: #404BBF;
 }
 
