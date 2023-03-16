@@ -3,9 +3,15 @@
   list-style: none;
 }
 
-.body {
+body {
   color: #434455;
   font-family: "Roboto", sans-serif;
+  background-color: #FFFFFF;
+
+}
+
+:root {
+
 }
 
 .main-link, .link  {
@@ -39,7 +45,8 @@ list
 }
 
 .list-link {
-  color: #2e2f42;
+  color: #2E2F42;
+  font-weight: 500;
 }
 
 .list-link:hover,
